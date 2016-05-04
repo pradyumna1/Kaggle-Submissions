@@ -1,4 +1,5 @@
 ======Prerequisites======
+
 Platform: Linux / Windows
 
 Language: Python 2.7 or greater
@@ -11,6 +12,7 @@ Packages :
 	matplotlib (version 1.3.0)
 
 ======Installation======
+
 	Installing Python:
 		Please follow the instructions given at following official documentation:
 		https://docs.python.org/2/using/unix.html#getting-and-installing-the-latest-version-of-python
@@ -29,6 +31,7 @@ Packages :
 		http://www.scipy.org/install.html
 
 ======Execution======
+	
 	The all_codes folder has following files:
 		- finalSubmissionLogistic.py (our final submission on Kaggle site. It gives a csv file as output which has all the predicted values of 
 									  survival on testing data)
