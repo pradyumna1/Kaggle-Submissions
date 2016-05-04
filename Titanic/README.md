@@ -1,14 +1,3 @@
-****************************************************
-* Submitted By:                                    *
-*	Pradyumna Newalkar  RIT2013005                 *
-*	Shanmukh Dundigalla RIT2013003                 *
-*	Mohit Ojha          RIT2013028                 *
-*	Rivu Das            RIT2013052                 *
-*	Soumya Agrawal      RIT2013061                 *
-*	Rupesh Maity        RIT2013066                 *
-*								                   *
-****************************************************
-
 ======Prerequisites======
 Platform: Linux / Windows
 
