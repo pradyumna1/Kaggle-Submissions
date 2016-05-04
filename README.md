@@ -1,2 +1,2 @@
 # Kaggle-Submissions
-A repo for my kaggle submissions
+The repo holds all of my Kaggle solutions.
